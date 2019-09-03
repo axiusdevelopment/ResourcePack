@@ -1,0 +1,17 @@
+name: ResourcePack
+main: com.AxiusDesigns.AxiusPlugins.ResourcePack.ResourcePack
+author: AxiusDevelopment
+version: 2.3
+prefix: RP
+depend: [ProtocolLib]
+commands:
+    pack:
+        description: Send a link to the resource pack.
+    pack-reload:
+        description: Reload ResourcePack configuration.
+    pack-send:
+        description: Send the resource pack to another user.
+    pack-add:
+        description: Add a URL to the server (per world).
+    pack-info:
+        description: Shows ResourcePack information for your world.
