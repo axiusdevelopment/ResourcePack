@@ -6,7 +6,15 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48506157-1aef-41b1-b3d7-1dcc0092d639" name="Default Changelist" comment="" />
+    <list default="true" id="48506157-1aef-41b1-b3d7-1dcc0092d639" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bin2/com/AxiusDesigns/AxiusPlugins/ResourcePack/Commands/PackCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/Bin2/com/AxiusDesigns/AxiusPlugins/ResourcePack/Commands/PackCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bin2/com/AxiusDesigns/AxiusPlugins/ResourcePack/ResourcePack.class" beforeDir="false" afterPath="$PROJECT_DIR$/Bin2/com/AxiusDesigns/AxiusPlugins/ResourcePack/ResourcePack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bin2/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Bin2/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/AxiusDesigns/AxiusPlugins/ResourcePack/ResourcePack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/AxiusDesigns/AxiusPlugins/ResourcePack/ResourcePack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/plugin.yml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,11 +29,12 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ResourcePack" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1QIpSgRKdbuTllVwyzw3AUTAkL8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="ignore.virus.scanning.warn.message" value="true" />
@@ -71,7 +80,12 @@
       <updated>1567467965680</updated>
       <workItem from="1567467974065" duration="1056000" />
       <workItem from="1567469287516" duration="2478000" />
-      <workItem from="1567514406054" duration="2429000" />
+      <workItem from="1567514406054" duration="3930000" />
+      <workItem from="1567545715998" duration="3046000" />
+      <workItem from="1567623852646" duration="599000" />
+      <workItem from="1567630292320" duration="29000" />
+      <workItem from="1569590161019" duration="263000" />
+      <workItem from="1569591427068" duration="614000" />
     </task>
     <servers />
   </component>

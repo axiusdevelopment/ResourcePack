@@ -15,7 +15,6 @@ import com.AxiusDesigns.AxiusPlugins.ResourcePack.Commands.PackCommand;
 import com.AxiusDesigns.AxiusPlugins.ResourcePack.Commands.ReloadCommand;
 import com.AxiusDesigns.AxiusPlugins.ResourcePack.Commands.SendCommand;
 import com.AxiusDesigns.AxiusPlugins.ResourcePack.Events.JoinEvent;
-import com.AxiusDesigns.AxiusPlugins.ResourcePack.Events.ForcePack;
 import com.AxiusDesigns.AxiusPlugins.ResourcePack.YAMLHandlers.Config;
 import com.AxiusDesigns.AxiusPlugins.ResourcePack.YAMLHandlers.Messages;
 

@@ -1,7 +1,7 @@
 name: ResourcePack
 main: com.AxiusDesigns.AxiusPlugins.ResourcePack.ResourcePack
 author: AxiusDevelopment
-version: 2.3
+version: 2.4
 prefix: RP
 depend: [ProtocolLib]
 commands:
