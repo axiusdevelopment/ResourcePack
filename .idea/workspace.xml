@@ -7,13 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48506157-1aef-41b1-b3d7-1dcc0092d639" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bin2/com/AxiusDesigns/AxiusPlugins/ResourcePack/Commands/PackCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/Bin2/com/AxiusDesigns/AxiusPlugins/ResourcePack/Commands/PackCommand.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bin2/com/AxiusDesigns/AxiusPlugins/ResourcePack/ResourcePack.class" beforeDir="false" afterPath="$PROJECT_DIR$/Bin2/com/AxiusDesigns/AxiusPlugins/ResourcePack/ResourcePack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bin2/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Bin2/plugin.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/AxiusDesigns/AxiusPlugins/ResourcePack/ResourcePack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/AxiusDesigns/AxiusPlugins/ResourcePack/ResourcePack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/plugin.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -86,6 +81,8 @@
       <workItem from="1567630292320" duration="29000" />
       <workItem from="1569590161019" duration="263000" />
       <workItem from="1569591427068" duration="614000" />
+      <workItem from="1569862228823" duration="1214000" />
+      <workItem from="1569951100599" duration="1889000" />
     </task>
     <servers />
   </component>

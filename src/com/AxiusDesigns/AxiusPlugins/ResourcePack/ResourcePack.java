@@ -36,14 +36,14 @@ public class ResourcePack extends JavaPlugin {
 		if(!data.exists()) {
 			System.out.print("- File not found, creating (1/2)");
 			data.mkdir();
+			System.out.print("- Checking files (2/2)");
+			File rph = new File(data + File.separator + "ResourcePack");
+			if(!rph.exists()) {
+				System.out.print("- File not found, creating (2/2)");
+				rph.mkdir();
 		}
 		else System.out.print("- File found (1/2)");
-		
-		System.out.print("- Checking files (2/2)");
-		File rph = new File(data + File.separator + "ResourcePack");
-		if(!rph.exists()) {
-			System.out.print("- File not found, creating (2/2)");
-			rph.mkdir();
+
 		}
 		else System.out.print("- File found (2/2)");
 		
